@@ -1,5 +1,6 @@
 
-# Deadline Dec 22, 2022
+# IT - 373 Web System 2
 
-## Live link: https://ilaggerz.github.io/Web_system-_project/
-Languages: html, css, php, bootstrap/tailwind, tbd,
+## Deadline Dec. 22, 2022
+
+Languages: html, css, php, bootstrap/tailwind, tbd
