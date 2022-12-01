@@ -1,6 +1,7 @@
 # IT - 373 Web System 2
 
-## Deadline Dec. 22, 2022
+## IT 373 Deadline: Dec. 22, 2022
+## KodeGo Capstone Deadline: Jan 3, 2023
 
 Languages: html, css, php, bootstrap/tailwind, tbd
 
