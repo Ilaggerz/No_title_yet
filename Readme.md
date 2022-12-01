@@ -1,4 +1,4 @@
-# IT - 373 Web System 2
+# Full automated system
 
 ## IT 373 Deadline: Dec. 22, 2022
 ## KodeGo Capstone Deadline: Jan 3, 2023
